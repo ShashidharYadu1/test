@@ -1,0 +1,2 @@
+2025-07-07 22:10:44,430 | INFO | LLM Usage: {'timestamp': '2025-07-07 22:10:44', 'model': 'claude-3-5-sonnet-20241022', 'input_tokens': 4675, 'output_tokens': 996, 'cost': 0.028965}
+2025-07-07 22:11:19,947 | INFO | LLM Usage: {'timestamp': '2025-07-07 22:11:19', 'model': 'claude-3-5-sonnet-20241022', 'input_tokens': 5765, 'output_tokens': 1458, 'cost': 0.039165}

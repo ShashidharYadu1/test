@@ -1,0 +1,12 @@
+PyMuPDF==1.25.2
+pdfplumber==0.11.5
+pdfminer.six==20231228
+pillow==11.1.0
+boto3
+PyYAML
+python-dotenv
+openpyxl
+pandas
+fastapi
+uvicorn
+pydantic

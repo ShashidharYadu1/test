@@ -1,0 +1,11 @@
+numpy >= 2.2.4
+openpyxl >= 3.1.5
+pandas >= 2.2.3
+boto3 >= 1.37.32
+python-dotenv
+PyYAML
+fsspec
+s3fs
+fastapi
+uvicorn
+pydantic
